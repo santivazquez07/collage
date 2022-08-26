@@ -1,0 +1,51 @@
+#footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: green ;
+    color: white;
+    text-align: center;
+    line-height: 3;
+}
+
+body{
+    background-color: gray;
+}
+
+h1{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: italic;
+    font-size: 40px;
+    font-weight: 300;
+}
+
+h4{
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    font-weight: 1000;
+}
+
+#camera{
+    border-color: red;
+    width: 500px;
+    height: 100px;
+    border: 100px;
+    border-color: red;
+}
+
+img{
+    width: 250px;
+    height: 150px;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px red;
+}
+
+img:hover{
+    border-radius: 140px;
+}
+
+.column{
+    width: 500px;
+    height: 150px;
+}
